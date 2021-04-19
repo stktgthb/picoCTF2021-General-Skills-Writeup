@@ -1,1 +1,0 @@
-# picoCTF2021-General-Skills-Writeup
